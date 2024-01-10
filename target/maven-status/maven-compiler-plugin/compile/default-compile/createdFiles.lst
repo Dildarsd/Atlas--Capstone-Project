@@ -1,0 +1,9 @@
+AmazonModel\SignIn.class
+AmazonModel\AddAddress.class
+AmazonModel\AutoFill.class
+AmazonModel\SearchAnItem.class
+AmazonModel\SignInFail.class
+AmazonModel\SignUp.class
+AmazonModel\AmazonBase.class
+AmazonModel\PreSignUp.class
+Database\DatabaseTesting.class
